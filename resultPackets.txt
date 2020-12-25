@@ -1,0 +1,5 @@
+nping -c 1 --udp -g 3 -p 3   -S 220.145.14.57  -dest-ip  10.0.0.6
+nping -c 1 --tcp -g 358 -p 358   -S 159.27.102.128  -dest-ip  10.0.0.6
+nping -c 1 --tcp -g 391 -p 391   -S 164.95.226.239  -dest-ip  10.0.0.6
+nping -c 1 --udp -g 652 -p 652   -S 217.171.83.92  -dest-ip  10.0.0.6
+nping -c 1 --udp -g 687 -p 687   -S 164.95.226.239  -dest-ip  10.0.0.6
